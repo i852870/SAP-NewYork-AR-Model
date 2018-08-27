@@ -20,7 +20,11 @@ Step 1: Once you have the whole environment set up download zip file of the whol
 
  ![image](https://user-images.githubusercontent.com/24690198/44673502-b4cbb500-a9f9-11e8-98d1-32543e8e2a35.png)
 
+Step 2: Copy paste the folder in your documents folder.
 
-
-
- 
+   Step 2.1: Now, to run the application in Unity. Go to Documents\SAP-NewYork-AR-Model\Assets\Scenes
+   ![image](https://user-images.githubusercontent.com/24690198/44673757-6539b900-a9fa-11e8-9c54-66d990fc4abc.png)
+   
+   Step 2.2: Double click on SampleScene.Unity
+      - It will open up the application and you'll be able to see it in unity. 
+      ![image](https://user-images.githubusercontent.com/24690198/44674203-d1b4b800-a9fa-11e8-8ecc-ab8a00086f84.png)
