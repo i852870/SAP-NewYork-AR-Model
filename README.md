@@ -12,3 +12,10 @@ This project is currently in development as we are planning to integrate more SA
 Video link: ,……………………………………………………………………………..
 
 ### Installation and Set up Instructions
+
+- Download and Install:
+ 1. Visual Studio 2017
+ 2. Unity 2018.1.Of2
+ 
+- Follow Instructions: https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools
+
