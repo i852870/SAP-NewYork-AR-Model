@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="leonardo_center_entrance" size="20.000000 10.873874" />
+    <ImageTarget name="kaleidoscope" size="2.000000 1.374404" />
+    <ImageTarget name="education" size="2.000000 1.867033" />
+    <ImageTarget name="cities" size="2.000000 1.878893" />
+    <ImageTarget name="copilot" size="0.600000 0.556509" />
+    <ImageTarget name="cloud_platform" size="0.600000 0.401677" />
+    <ImageTarget name="smart_shelf" size="50.000000 38.085342" />
+    <ImageTarget name="partnership" size="50.000000 111.924530" />
+    <ImageTarget name="4" size="5.000000 14.974874" />
+    <ImageTarget name="IMG-3009" size="5.000000 5.077897" />
+    <ImageTarget name="digital_twin" size="0.260000 0.212533" />
+    <ImageTarget name="macine_learning" size="0.250000 0.183463" />
+    <ImageTarget name="leonardo" size="0.240000 0.306860" />
+    <ImageTarget name="real_blockchain" size="0.250000 0.190789" />
+    <ImageTarget name="REcalibrateTARGET" size="0.157800 0.141189" />
+  </Tracking>
+</QCARConfig>
