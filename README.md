@@ -6,7 +6,7 @@ This project is currently in development as we are planning to integrate more SA
 
 ### Project Screenshots
  
- ![Alt text](/SAP-NewYork-AR-Model/screenshot.JPG?raw=true "Optional Title")
+![screenshot](https://user-images.githubusercontent.com/24690198/44671229-f1e07900-a9f2-11e8-9db3-3be2e9553485.JPG)
  
 
 Video link: ,……………………………………………………………………………..
