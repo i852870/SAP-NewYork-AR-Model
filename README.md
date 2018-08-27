@@ -3,8 +3,10 @@ A functional interactive 3D model, showing how a smart city could be reimaged in
 
 ### Project Status
 This project is currently in development as we are planning to integrate more SAP services in the model. Currently it shows weather information using SAP’s API management services and allows user to interact with SAP’s Hudson yards office.
-Project Screenshots
 
+### Project Screenshots
+ 
+ ![Alt text](/SAP-NewYork-AR-Model/screenshot.JPG?raw=true "Optional Title")
  
 
 Video link: ,……………………………………………………………………………..
