@@ -16,7 +16,11 @@ Video link: ,…………………………………………………………�
 - Follow Instructions: https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools
 - Note: If you have a HoloLens, you do not need to install HoloLens emulator
  
-Once you have the whole environment set up download the whole project.
+Step 1: Once you have the whole environment set up download zip file of the whole project.
 
-Step 1:
+ ![image](https://user-images.githubusercontent.com/24690198/44673502-b4cbb500-a9f9-11e8-98d1-32543e8e2a35.png)
+
+
+
+
  
