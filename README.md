@@ -56,6 +56,6 @@ Video link: ,…………………………………………………………�
    ##### Step 4.3 Now Go to > Debug> New Unity Project Properties and input your Hololens IP address
    ![image](https://user-images.githubusercontent.com/24690198/44786389-f4151580-ab61-11e8-8930-c4cad19bbc92.png)
 
-  ##### Note: If you have any problems connecting to HoloLens follow this tutorial: https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens
+ #### Note: If you have any problems connecting to HoloLens follow this tutorial: https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens
 
   ##### Step 4.4 
