@@ -44,3 +44,16 @@ Video link: ,…………………………………………………………�
    ![image](https://user-images.githubusercontent.com/24690198/44675180-c020df80-a9fd-11e8-9874-006d33911233.png)
 
  
+ 
+ #### Step 4: Now, to deploy this application HoloLens. Go to SAP-NewYork-AR-Model\New folder19.
+   ##### Step 4.1 Double click on NewUnityProject.sln and open it in Visual Studio. 
+   ![image](https://user-images.githubusercontent.com/24690198/44786274-97195f80-ab61-11e8-9520-e899241438d0.png)
+   
+   
+   ##### Step 4.2 Now make sure you have same settings as shown in the picture below:
+   ![image](https://user-images.githubusercontent.com/24690198/44786365-df388200-ab61-11e8-80a4-d738bf9a4874.png)
+
+   ##### Step 4.3 Now Go to > Debug> New Unity Project Properties and input your Hololens IP address
+   ![image](https://user-images.githubusercontent.com/24690198/44786389-f4151580-ab61-11e8-8930-c4cad19bbc92.png)
+
+
