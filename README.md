@@ -60,6 +60,12 @@ Video link: ,…………………………………………………………�
 
 
 
- #### Note: If you have any problems connecting to HoloLens follow this tutorial: https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens
+ #### Note: If you have any problems connecting HoloLens the the wifi, follow this tutorial: https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens
 
-  ##### Step 4.4 
+  ##### Step 4.4 Once you have typed in your IP address in the Remote Machine input field. Run the project by going to Debug>Start Without Debugging. Visual Studio will start the deployment to the Hololens.
+  ![image](https://user-images.githubusercontent.com/24690198/44791471-ae5f4980-ab6f-11e8-923d-91b2dbaee5b1.png)
+  
+  #### Step 5: Once the deployment has succeeded, The 3D model of the New York city should show up on your HoloLens. 
+  
+![screenshot](https://user-images.githubusercontent.com/24690198/44671229-f1e07900-a9f2-11e8-9db3-3be2e9553485.JPG)
+
