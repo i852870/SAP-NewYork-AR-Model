@@ -66,6 +66,7 @@ Video link: ,…………………………………………………………�
   ![image](https://user-images.githubusercontent.com/24690198/44791471-ae5f4980-ab6f-11e8-923d-91b2dbaee5b1.png)
   
   #### Step 5: Once the deployment has succeeded, The 3D model of the New York city should show up on your HoloLens. 
-  
-![screenshot](https://user-images.githubusercontent.com/24690198/44671229-f1e07900-a9f2-11e8-9db3-3be2e9553485.JPG)
+  ![image](https://user-images.githubusercontent.com/24690198/44791982-e915b180-ab70-11e8-94df-ac12a9a5a193.png)
+
+  ![screenshot](https://user-images.githubusercontent.com/24690198/44671229-f1e07900-a9f2-11e8-9db3-3be2e9553485.JPG)
 
