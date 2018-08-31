@@ -1,5 +1,5 @@
 ## SAP New York Office Augmented Reality showcase
-A functional interactive 3D model, showing how a smart city could be reimaged in Mixed Reality using Microsoft HoloLens and SAP’s API management services. 
+An innovative way to visualize data and models utilizing immersive reality. With the use of Microsoft’s HoloLens technology, I have built this Augmented Reality application showcasing how real-time data can be utilized in a city through the use of SAP’s API management services. As a member of SAP’s Next Level IT Lab, I am continuing to look for innovative ways to improve the experience for the end-user.
 
 ### Project Status
 This project is currently in development as we are planning to integrate more SAP services in the model. Currently it shows weather information using SAP’s API management services and allows user to interact with SAP’s Hudson yards office.
